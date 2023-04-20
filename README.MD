@@ -1,4 +1,4 @@
-Hi, My name is K. Utkarsh
+K. Utkarsh.
 ===========================
 
 Web Developer and FOSS Enthusiast
@@ -7,7 +7,7 @@ Web Developer and FOSS Enthusiast
 Apart from making excessive use of badges in `Markdown`, I like to build awesome things for the Internet.
 
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)(#About me)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iusearchbtw2@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iuse4rchbtw)
 
@@ -40,5 +40,5 @@ Following are the skills I am proficient in:
 * ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
 * ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
+===========================
 
