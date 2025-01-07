@@ -16,7 +16,6 @@ Apart from making excessive use of badges in `Markdown`, I like to build awesome
 ## About Me
 *   🌍  I'm based in India.
 *   ✉️  You can contact me at [iusearchbtw2@gmail.com](mailto:iusearchbtw2@gmail.com).
-*   🚀  I'm the co-founder of a CS club: [Kode Crumbs](http://kodec.tech).
 *   🧠  I'm learning Database Management, Web Vulnerabilities and Graphic Design.
 *   🤝  I'm open to collaborating on diversified Frontend Projects.
 
